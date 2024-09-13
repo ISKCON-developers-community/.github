@@ -1,3 +1,3 @@
-# ISCNON Developers Community
+# ISKCON Developers Community
 
 some info
